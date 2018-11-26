@@ -19,6 +19,7 @@ public class OCAChapter06 {
             //Object obj = type;
             //int number = (int) obj;
             eatCarrot();
+            eatCarrot();
             //throw new NoMoreCarrotsException();   
         }
         catch (ArrayIndexOutOfBoundsException e)
